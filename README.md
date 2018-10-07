@@ -3,7 +3,7 @@ LCD display program for Raspberry Pi
 
 1. Install wiring pi.
 
-ref:http://wiringpi.com/wiringpi-and-the-raspberry-pi-compute-board/
+[ref]:http://wiringpi.com/wiringpi-and-the-raspberry-pi-compute-board/
 ```
 cd ~
 git clone git://git.drogon.net/wiringPi

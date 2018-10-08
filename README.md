@@ -3,7 +3,7 @@ LCD display program for Raspberry Pi
 
 1. Install wiring pi.
 
-[ref]:http://wiringpi.com/wiringpi-and-the-raspberry-pi-compute-board/
+    Refer to [wiringpi-and-the-raspberry-pi-compute-board][1]
 ```
 cd ~
 git clone git://git.drogon.net/wiringPi
@@ -30,3 +30,8 @@ Add following line in "/etc/rc.local" before "exit 0" line.
 ```
 sudo /home/pi/cpu_show/cpushow
 ```
+
+Reference to post of [EnjoyPi][1]
+
+[1]: http://wiringpi.com/wiringpi-and-the-raspberry-pi-compute-board/ "WiringPi"
+[2]: http://raspifans.com/bbs/forum.php?mod=viewthread&tid=123 "EnjoyPi"
